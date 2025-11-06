@@ -1,0 +1,5 @@
+print("Hola, Mundo! Soy Juan Manuel Zafra Hernández.")
+print("¡Bienvenido a Python!")
+print("¡Vamos a programar juntos!")
+print("¡Diviértete aprendiendo a programar con la IA!")
+print("¡Hasta luego!")
